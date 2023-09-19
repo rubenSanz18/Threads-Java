@@ -1,6 +1,3 @@
-//Rubén Sanz Barrio ruben.sanz@alumnos.upm.es
-
-
 import ssoo.videos.Transcodificador;
 import ssoo.videos.Video;
 

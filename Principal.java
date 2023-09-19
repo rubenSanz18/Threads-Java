@@ -1,5 +1,3 @@
-//Rubén Sanz Barrio ruben.sanz@alumnos.upm.es
-
 import java.io.IOException;
 
 import ssoo.videos.PanelVisualizador;
